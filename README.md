@@ -1,6 +1,4 @@
 # nikhil7gp-Bike_Sales_Data_Analytics_Project
-Great! Since you cleaned the data and removed duplicates, I'll update the **README.md** to reflect your data preprocessing work. Here's the final version including your data cleaning step:
-
 ---
 
 # 🚴 Bike Purchase Analytics Project
